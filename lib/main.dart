@@ -151,7 +151,7 @@ class _AlbumsPageState extends State<AlbumsPage> {
             .toList();
       }
     });
-  }
+  } //wait
 
   @override
   Widget build(BuildContext context) {
